@@ -2,4 +2,5 @@
     <remote name="pkadev" fetch="https://github.com/pkadev"/>
     <default revision="refs/heads/master" remote="pkadev" sync-j="4"/>
     <project name="aaps" remote="pkadev" path="src"/>
+    <project name="max1168" remote="pkadev" path="src/drivers"/>
 </manifest>
