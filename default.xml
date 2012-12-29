@@ -1,5 +1,5 @@
 <manifest>
     <remote name="pkadev" fetch="https://github.com/pkadev"/>
     <default revision="refs/heads/master" remote="pkadev" sync-j="4"/>
-    <project name="aaps" remote="pkadev" path="vm"/>
+    <project name="aaps" remote="pkadev" path="src"/>
 </manifest>
